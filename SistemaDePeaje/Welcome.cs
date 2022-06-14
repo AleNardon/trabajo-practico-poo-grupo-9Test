@@ -16,5 +16,22 @@ namespace SistemaDePeaje
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            
+            Login login = new Login();
+            login.Show();
+            this.Hide();
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            Register register = new Register();
+            register.Show();
+            this.Hide();
+        }
+
+     
     }
 }
