@@ -157,7 +157,7 @@
             // lblRegistro
             // 
             this.lblRegistro.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegistro.Location = new System.Drawing.Point(247, 9);
+            this.lblRegistro.Location = new System.Drawing.Point(166, 9);
             this.lblRegistro.Name = "lblRegistro";
             this.lblRegistro.Size = new System.Drawing.Size(124, 35);
             this.lblRegistro.TabIndex = 13;
@@ -167,7 +167,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(749, 450);
+            this.ClientSize = new System.Drawing.Size(505, 450);
             this.Controls.Add(this.lblRegistro);
             this.Controls.Add(this.lblIniciarSesion);
             this.Controls.Add(this.btnInicioSesion);
