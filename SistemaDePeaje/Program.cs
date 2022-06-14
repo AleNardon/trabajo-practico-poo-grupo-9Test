@@ -16,7 +16,11 @@ namespace SistemaDePeaje
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
+            Application.Run(new Welcome());
+=======
         //    Application.Run(new Form1());
+>>>>>>> master
         }
     }
 }
