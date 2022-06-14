@@ -1,0 +1,12 @@
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\Modelo.dll.config
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\Modelo.dll
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\Modelo.pdb
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaDePeaje\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaDePeaje\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaDePeaje\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaDePeaje\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Proyectos\SistemaDePeaje\Modelo\obj\Debug\Modelo.dll
+C:\Proyectos\SistemaDePeaje\Modelo\obj\Debug\Modelo.pdb
