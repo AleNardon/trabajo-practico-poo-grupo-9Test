@@ -1,0 +1,12 @@
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\Modelo.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\obj\Debug\Modelo.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\Modelo\obj\Debug\Modelo.pdb
