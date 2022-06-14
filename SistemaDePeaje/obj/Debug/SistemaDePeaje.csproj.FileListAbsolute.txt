@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.AssemblyReference.cache
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.SuggestedBindingRedirects.cache
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.Properties.Resources.resources
@@ -20,3 +21,27 @@ C:\Proyectos\SistemaDePeaje\SistemaDePeaje\bin\Debug\EntityFramework.SqlServer.x
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.CopyComplete
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.exe
 C:\Proyectos\SistemaDePeaje\SistemaDePeaje\obj\Debug\SistemaDePeaje.pdb
+=======
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\SistemaDePeaje.exe.config
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\SistemaDePeaje.exe
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\SistemaDePeaje.pdb
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Controladora.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\EntityFramework.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Modelo.dll
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Controladora.pdb
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Controladora.dll.config
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Modelo.pdb
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\Modelo.dll.config
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\EntityFramework.xml
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.Login.resources
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.Properties.Resources.resources
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.csproj.CopyComplete
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.exe
+C:\Users\mauri\Desktop\Peaje\trabajo-practico-poo-grupo-9\SistemaDePeaje\obj\Debug\SistemaDePeaje.pdb
+>>>>>>> master
